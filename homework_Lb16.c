@@ -53,6 +53,12 @@ int main()
 	put_elements_16(ptr_array_c, size_c);
 	puts("Массив D");
 	put_elements_16(ptr_array_d, size_d);
+	
+    free(ptr_array_a);
+    free(ptr_array_b);
+    free(ptr_array_c);
+    free(ptr_array_d);
+    return 0;
 }
 
 
