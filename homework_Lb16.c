@@ -1,4 +1,4 @@
-﻿#include <stdio.h>
+﻿#include <stdio.h> //ghj
 #include <stdlib.h>
 #include <time.h>
 #include <locale.h>
